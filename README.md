@@ -9,6 +9,7 @@
 
 # Usage
 ```bash
+pip install -r requirements.txt
 python main.py --url "news url" \
                --lang "optional" \
                --fps "optional" \
