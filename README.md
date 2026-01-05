@@ -24,7 +24,7 @@ Gmail: hidden4xe@gmail.com
  
 # Preview:
 <div align="center">
-      <a href="https://jumpshare.com/s/ZrxxWPPE1zg6fGp9ZFsl">
+      <a href="https://youtu.be/vOmSHr2as9g">
          <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-youtube-social-media-round-icon-png-image_6315993.png" style="width:20%;">
       </a>
 </div>
