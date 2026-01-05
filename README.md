@@ -7,7 +7,7 @@
 - Converts text and images into video
 - Adds automatic voiceovers
 
-# Usage
+# Usage:
 ```bash
 pip install -r requirements.txt
 python main.py --url "news url" \
